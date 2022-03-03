@@ -18,7 +18,7 @@ mainly how to load and handle data. Also, since this is a small dataset, itcan e
 requiring special transformations or scaling capabilities.
       
 
-### Task 2 : Stock Market PredictionAnd Forecasting UsingStacked LSTM
+### Task 2 : Stock Market PredictionAnd Forecasting Using Stacked LSTM
 
 ### Task 3 : Music Recommendation
 Music recommender systems cansuggest songs to users based on theirlistening patterns.
