@@ -18,14 +18,12 @@ mainly how to load and handle data. Also, since this is a small dataset, itcan e
 requiring special transformations or scaling capabilities.
       
 
-### Task 2 : Iris Flowers Classification MLProject
+### Task 2 : Stock Market PredictionAnd Forecasting UsingStacked LSTM
 
-### Task 3 : Stock Market PredictionAnd Forecasting UsingStacked LSTM
-
-### Task 4 : Music Recommendation
+### Task 3 : Music Recommendation
 Music recommender systems cansuggest songs to users based on theirlistening patterns.
      
-### Task 5 : Image to Pencil Sketch with Python
+### Task 4 : Image to Pencil Sketch with Python
 We need to read the image in RBG format and then convert it to a grayscale image.This will turn an image 
 into a classic blackand white photo. Then the next thing to dois invert the grayscale image also called 
 negative image, this will be our inverted grayscale image. Inversion can be used toenhance details. 
@@ -33,10 +31,10 @@ Then we can finally create the pencil sketch by mixing the grayscale image with 
 This can be done by dividing the grayscale image by the inverted blurry image. Since images are just arrays, 
 we can easily dothis programmatically using the divide function from the cv2 library in Python.
      
-### Task 6 : Exploratory Data Analysis on Dataset- Terrorism
+### Task 5 : Exploratory Data Analysis on Dataset- Terrorism
 As a security/defense analyst, try to find out the hot zone of terrorism. You can choose any of the tool 
 your choice (Python/R/Tableau/PowerBI/Excel/SAP/SAS)
      
-### Task 7 : Prediction using Decision Tree Algorithm
+### Task 6 : Prediction using Decision Tree Algorithm
 Create the Decision Tree classifier and visualize it graphically. The purpose is if we feed any new data 
 to this classifier, it would be able to predict the right class accordingly.
