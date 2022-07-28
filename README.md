@@ -35,6 +35,3 @@ we can easily dothis programmatically using the divide function from the cv2 lib
 As a security/defense analyst, try to find out the hot zone of terrorism. You can choose any of the tool 
 your choice (Python/R/Tableau/PowerBI/Excel/SAP/SAS)
      
-### Task 6 : Prediction using Decision Tree Algorithm
-Create the Decision Tree classifier and visualize it graphically. The purpose is if we feed any new data 
-to this classifier, it would be able to predict the right class accordingly.
